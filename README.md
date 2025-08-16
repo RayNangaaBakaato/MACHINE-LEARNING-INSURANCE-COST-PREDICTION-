@@ -1,4 +1,4 @@
-# 🏥 Machine Learning Project Insurance Cost Prediction – Machine Learning Project
+# 🏥 Machine Learning Project: - Insurance Cost Prediction 
 
 ## 📌 Overview
 
